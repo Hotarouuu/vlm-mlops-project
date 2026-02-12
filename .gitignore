@@ -205,3 +205,5 @@ temp/
 
 # Some random stuff
 template.py
+.vscode/
+.python-version
